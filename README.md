@@ -2,21 +2,21 @@
 
 University Grading Platform made by a group of students at the Software Engineering Course.
 
-# Client (web)
+## Client (web)
 
  ### Technology: Angular
 
-# Backend
+## Backend
 
 ### Technology: Golang
 
-# Database
+## Database
 
 ### Technology: MongoDB
 
-# Requirements
+## Requirements
 
-# Actors:
+## Actors:
 
 ### All inherit User:
  
@@ -26,7 +26,7 @@ University Grading Platform made by a group of students at the Software Engineer
     • Staff
     • Admin
     
-# Actions:
+## Actions:
   
 ### User:
 
