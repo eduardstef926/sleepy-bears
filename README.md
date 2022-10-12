@@ -8,17 +8,17 @@ University Grading Platform made by a group of students at the Software Engineer
 
 # Backend
 
- Technology: Golang
+### Technology: Golang
 
 # Database
 
- Technology: MongoDB
+### Technology: MongoDB
 
 # Requirements
 
 # Actors:
 
- All inherit User:
+### All inherit User:
  
     • Student
     • Teacher
@@ -28,13 +28,13 @@ University Grading Platform made by a group of students at the Software Engineer
     
 # Actions:
   
-User:
+### User:
 
     • Sign In
     • Manage profile
     • Logout
     
-Student Actions:
+### Student Actions:
   
     • Enroll
     • View Curriculum
@@ -42,7 +42,7 @@ Student Actions:
     • Sign contract of students
     • View Courses
     
-Staff:
+### Staff:
     
     • Assign student to optional
     • View students in group result
@@ -50,19 +50,19 @@ Staff:
     • View students ranking by semester
     • Generate document (extended above)
 
-Teacher:
+### Teacher:
     
     • Propose optional courses
     • Add grade for student
 
-Chief of Department:
+### Chief of Department:
 
      • Review list of optional courses
      • Set number of students for course
      • View teacher with best/worst results
      • View disciplines for teacher
 
-Admin:
+### Admin:
 
     • Create accounts
 
