@@ -3,7 +3,7 @@
 University Grading Platform made by a group of students at the Software Engineering Course.
 
 ## Client (web): 
-##### Angular
+#### Angular
 
 ## Backend:
 ##### Golang
