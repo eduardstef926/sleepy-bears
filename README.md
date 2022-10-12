@@ -2,11 +2,14 @@
 
 University Grading Platform made by a group of students at the Software Engineering Course.
 
-## Client (web) Technology: Angular
+## Client (web): 
+##### Angular
 
-## Backend Technology: Golang
+## Backend:
+##### Golang
 
-## Database Technology: MongoDB
+## Database Technology:
+##### Golang
 
 ## Requirements
 
