@@ -1,9 +1,9 @@
 # SleepyBears
 
-#### University Grading Platform made by a group of students at the Software Engineering Course.
+ University Grading Platform made by a group of students at the Software Engineering Course.
 
 ## Client (web): 
-#### Technology: Angular 
+ Technology: Angular 
 
 
 ## Backend:
