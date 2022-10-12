@@ -7,11 +7,11 @@
 
 
 ## Backend:
-#### Technology: Golang
+ Technology: Golang
 
 
 ## Database:
-#### Technology: MongoDB
+ Technology: MongoDB
 
 
 ## Requirements
