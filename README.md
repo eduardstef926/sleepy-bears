@@ -6,9 +6,32 @@ University Grading Platform made by a group of students at the Software Engineer
 
 Technology: Angular
 
-#Backend
+# Backend
 
 Technology: Golang
+
+# Database
+
+Technology: MongoDB
+
+# Requirements
+
+# Actors:
+
+ All inherit User:
+ 
+    • Student
+    • Teacher
+    • Chief of Department (inherits teacher)
+    • Staff
+    • Admin
+    
+# Actions:
+  
+User:
+    • Sign In
+    • Manage profile
+    • Logout
 
 
 ## Development server
